@@ -1,1 +1,1 @@
-# vefverk3-ssg
+# recipes-ssg
